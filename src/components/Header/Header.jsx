@@ -1,15 +1,13 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
+import Navebar from "./Navebar";
 
-class Header extends Component {
+export default class Header extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <h1>This is Header</h1>
-        </header>
+      <div id="HeaderMain">
+        <Navebar />
+        {/* <h1 className='text-center'>Automation for blockchains</h1> */}
       </div>
     );
   }
 }
-
-export default Header;

@@ -35,7 +35,7 @@ export default class Header extends Component {
           </div>
           <div className="container-fluid">
             <div className="row h-100 justify-content-center align-items-center">
-              <img src={bitcoin} id='headMainImage' />
+              <img src={bitcoin} id='headMainImage' alt='bitCoin'/>
             </div>
           </div>
         </div>

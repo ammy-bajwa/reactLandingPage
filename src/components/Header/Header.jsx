@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Navebar from "./Navebar";
 import MyButton from "./Button";
+import bitcoin from './images/bitcoin.svg'
 
 let whiteButton = {
   color: "#0099FF",
@@ -30,6 +31,11 @@ export default class Header extends Component {
                 <MyButton color={whiteButton} />
                 <MyButton color={blueButton} />
               </div>
+            </div>
+          </div>
+          <div className="container-fluid">
+            <div className="row h-100 justify-content-center align-items-center">
+              <img src={bitcoin} id='headMainImage' />
             </div>
           </div>
         </div>

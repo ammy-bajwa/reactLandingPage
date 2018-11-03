@@ -51,7 +51,7 @@ export default class Navebar extends React.Component {
                 <NavLink className="text-light">API</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="text-light">FAQ</NavLink>
+                <NavLink className="text-light pr-3">FAQ</NavLink>
               </NavItem>
               <NavItem>
                 <Button outline color="light">

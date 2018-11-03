@@ -8,3 +8,5 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 @import './components/Header/Header.scss';
+@import './components/Features/Features.scss';
+

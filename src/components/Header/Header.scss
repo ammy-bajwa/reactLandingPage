@@ -11,3 +11,8 @@
 .navbar-toggler-icon {
   background-image: url("./images/menu.svg") !important;
 }
+@media screen and (max-width: 767px) {
+    .mt-5, .my-5 {
+        margin-top: 0rem !important;
+    }
+}

@@ -25,9 +25,11 @@ export default class Header extends Component {
               <br />
               to help build smart applications
             </p>
-            <div className="row h-100 justify-content-center align-items-center">
-              <MyButton color={whiteButton} />
-              <MyButton color={blueButton} />
+            <div className="container-fluid">
+              <div className="row h-100 justify-content-center align-items-center">
+                <MyButton color={whiteButton} />
+                <MyButton color={blueButton} />
+              </div>
             </div>
           </div>
         </div>

@@ -10,4 +10,5 @@ body {
 @import './components/Header/Header.scss';
 @import './components/Features/Features.scss';
 @import './components/Triggers/Triggers.scss';
+@import './components/Roadmap/Roadmap.scss';
 

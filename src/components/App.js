@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./Header/Header";
 import Features from "./Features/Features";
 import Triggers from "./Triggers/Triggers";
+import Roadmap from "./Roadmap/Roadmap";
 
 class App extends Component {
   render() {
@@ -11,6 +12,7 @@ class App extends Component {
         <Header />
         <Features />
         <Triggers />
+        <Roadmap />
       </div>
     );
   }

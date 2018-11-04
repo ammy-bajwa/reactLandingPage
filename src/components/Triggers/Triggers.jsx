@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import CodeCard from "./CodeCard";
-import Bitcoin from "./images/bitcoin.PNG";
 
 export default class Triggers extends Component {
   render() {

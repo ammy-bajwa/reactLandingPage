@@ -5,6 +5,7 @@ import Features from "./Features/Features";
 import Triggers from "./Triggers/Triggers";
 import Roadmap from "./Roadmap/Roadmap";
 import GetStarted from "./GetStarted/GetStarted";
+import Footer from "./Footer/Footer";
 
 class App extends Component {
   render() {
@@ -15,6 +16,7 @@ class App extends Component {
         <Triggers />
         <Roadmap />
         <GetStarted />
+        <Footer />
       </div>
     );
   }

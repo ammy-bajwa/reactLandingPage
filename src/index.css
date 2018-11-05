@@ -12,4 +12,5 @@ body {
 @import './components/Triggers/Triggers.scss';
 @import './components/Roadmap/Roadmap.scss';
 @import './components/GetStarted/GetStarted.scss';
+@import './components/Footer/Footer.scss';
 

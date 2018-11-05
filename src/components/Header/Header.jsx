@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Navebar from "./Navebar";
-import MyButton from "./Button";
+import MyButton from "../Helpers/Button";
 import bitcoin from './images/bitcoin.svg'
 
 let whiteButton = {

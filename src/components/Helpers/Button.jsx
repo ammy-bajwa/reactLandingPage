@@ -65,7 +65,7 @@ function MyButton(props) {
         className={classNames(classes.margin, classes.cssRoot)}
         style={props.color}
       >
-        Custom CSS
+        Custom Button
       </Button>
     </div>
   );

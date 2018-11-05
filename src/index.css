@@ -11,4 +11,5 @@ body {
 @import './components/Features/Features.scss';
 @import './components/Triggers/Triggers.scss';
 @import './components/Roadmap/Roadmap.scss';
+@import './components/GetStarted/GetStarted.scss';
 

@@ -25,19 +25,19 @@ export default class ActiveTriggers extends Component {
 
                 <ul className="list-unstyled">
                   <li>
-                    <a href="#" className="text-muted">
+                    <p className="text-muted">
                       Documentation
-                    </a>
+                    </p>
                   </li>
                   <li>
-                    <a href="#" className="text-muted">
+                    <p className="text-muted">
                       Github
-                    </a>
+                    </p>
                   </li>
                   <li>
-                    <a href="#" className="text-muted">
+                    <p className="text-muted">
                       API Status
-                    </a>
+                    </p>
                   </li>
                 </ul>
               </div>
@@ -47,12 +47,12 @@ export default class ActiveTriggers extends Component {
 
                 <ul className="list-unstyled">
                   <li>
-                    <a href="#" className="text-muted">{`Ter & conditions`}</a>
+                    <p className="text-muted">{`Ter & conditions`}</p>
                   </li>
                   <li>
-                    <a href="#" className="text-muted">
+                    <p className="text-muted">
                       Privacy Policy
-                    </a>
+                    </p>
                   </li>
                 </ul>
               </div>
@@ -62,19 +62,19 @@ export default class ActiveTriggers extends Component {
 
                 <ul className="list-unstyled">
                   <li>
-                    <a href="#" className="text-muted">
+                    <p className="text-muted">
                       Help Center
-                    </a>
+                    </p>
                   </li>
                   <li>
-                    <a href="#" className="text-muted">
+                    <p className="text-muted">
                       Twitter
-                    </a>
+                    </p>
                   </li>
                   <li>
-                    <a href="#" className="text-muted">
+                    <p className="text-muted">
                       Email
-                    </a>
+                    </p>
                   </li>
                 </ul>
               </div>

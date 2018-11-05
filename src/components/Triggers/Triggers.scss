@@ -17,3 +17,9 @@
 .ui.cards > .card {
   width: 660px !important;
 }
+@media screen and (max-width: 767px) {
+  
+#contentTrigger,#triggerMain {
+  transform: rotate(0deg);
+}
+}

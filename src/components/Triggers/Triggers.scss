@@ -1,7 +1,7 @@
 #triggerMain {
-  transform: rotateZ(-2deg);
+  transform: rotate(-2deg);
   background-color: #c0dcf1;
-  margin: 2.5rem 0.5rem;
+  margin: 2.5rem 0;
   background-image: linear-gradient(
     141deg,
     #9fb8ad 0%,
@@ -10,7 +10,7 @@
   );
 }
 #contentTrigger {
-  transform: rotateZ(2deg);
+  transform: rotate(2deg);
   padding: 3rem 0;
 }
 .ui.card,
